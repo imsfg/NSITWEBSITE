@@ -339,11 +339,11 @@ document.querySelector("#fex").onclick = function () {
     switch (tount) {
         case 0:
 
-            jk.src = "https://www.youtube.com/embed?v=zACzoUH4JDs";
+            jk.src = "https://www.youtube.com/embed?H-Isrx_yl_o";
             break;
         case 1:
 
-            jk.src = "https://www.youtube.com/embed?v=zACzoUH4JDs";
+            jk.src = "https://www.youtube.com/embed?H-Isrx_yl_o";
             break;
         case 2:
 
@@ -354,11 +354,11 @@ document.querySelector("#fex").onclick = function () {
     switch (tount) {
         case 0:
 
-            jk.src = "https://www.youtube.com/embed?v=zACzoUH4JDs";
+            jk.src = "https://www.youtube.com/embed?H-Isrx_yl_o";
             break;
         case -1:
 
-            jk.src = "https://www.youtube.com/embed?v=zACzoUH4JDs";
+            jk.src = "https://www.youtube.com/embed?H-Isrx_yl_o";
             break;
         case -2:
 
